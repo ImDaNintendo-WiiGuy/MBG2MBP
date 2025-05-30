@@ -1,6 +1,8 @@
 # MBG2MBP
 A texture pack for Marble Blast Gold that makes your game (except main menu, expect that in a later version) look like Marble Blast Platinum.
 
+Better played with PlatinumTeam's Marble Skin Selector and the Platinum marble texture.
+
 ------INSTALL INSTRUCTIONS------
 
 !BACKUP YOUR "marble" FOLDER INCASE YOU WANT TO UNINSTALL!

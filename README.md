@@ -21,6 +21,8 @@ Requirements:
 
 5. Copy "sound" folder to marble\data
 
-6. Launch the game, enter any level and experience MBP in MBG!
+6. Copy "home" folder to marble\client\ui (again)
+
+7. Launch the game, enter any level and experience MBP in MBG!
 
 If you have any issues please go to the issues tab and list a new issue.
